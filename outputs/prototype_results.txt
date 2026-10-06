@@ -1,0 +1,14 @@
+Prototype model: Random Forest
+Test split: 20%
+Random state: 42
+Test accuracy: 68.00%
+
+              precision    recall  f1-score   support
+
+        High       0.72      0.87      0.79        30
+         Low       0.00      0.00      0.00         2
+      Medium       0.57      0.44      0.50        18
+
+    accuracy                           0.68        50
+   macro avg       0.43      0.44      0.43        50
+weighted avg       0.64      0.68      0.65        50
