@@ -114,7 +114,7 @@ The models are trained using student academic and study-related features to clas
 
 ### 🏠 Dashboard
 
-> Dashboard screenshot will be added here.
+![AI Student Performance Analytics Dashboard](screenshots/dashboard.png)
 
 ### 🎯 Performance Prediction
 
