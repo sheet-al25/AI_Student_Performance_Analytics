@@ -122,7 +122,7 @@ The models are trained using student academic and study-related features to clas
 
 ### ⚠️ Risk & Early Warning
 
-> Risk analysis screenshot will be added here.
+![Risk & Early Warning System](screenshots/risk_warning.png)
 
 ### 📊 Model Analytics
 
