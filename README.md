@@ -118,7 +118,7 @@ The models are trained using student academic and study-related features to clas
 
 ### 🎯 Performance Prediction
 
-> Prediction screenshot will be added here.
+![Performance Prediction](screenshots/prediction.png)
 
 ### ⚠️ Risk & Early Warning
 
