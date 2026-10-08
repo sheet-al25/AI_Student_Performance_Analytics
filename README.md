@@ -126,7 +126,9 @@ The models are trained using student academic and study-related features to clas
 
 ### 📊 Model Analytics
 
-> Model analytics screenshot will be added here.
+
+![Model Analytics](screenshots/model_analytics.png)
+
 
 ---
 
